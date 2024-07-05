@@ -26,6 +26,15 @@
 <img width="903" alt="image-20210114152554381" src="https://github.com/Legolas9999/PicUpload/assets/71768998/c9a9c3d1-f4e8-4ecd-a2d7-001336831085">
 <img width="489" alt="image" src="https://github.com/Legolas9999/PicUpload/assets/71768998/5460093b-8a28-4680-a2c8-1eefd4f36539">
 <img width="471" alt="image" src="https://github.com/Legolas9999/PicUpload/assets/71768998/172b5fa0-e837-4614-ae94-8a143da11a20">
+
 ![image-20211124235714644](https://github.com/Legolas9999/PicUpload/assets/71768998/8aa61cd2-4e3b-441b-b468-63abba109a1e)
 ![image-20211125000156369](https://github.com/Legolas9999/PicUpload/assets/71768998/e5936807-7018-4e99-bcb5-79b58725abb0)
+<img width="815" alt="image-20210121124612944" src="https://github.com/Legolas9999/PicUpload/assets/71768998/aebcb1a9-9a70-4278-98c9-93e155d10a9d">
+<img width="1009" alt="image-20210121124816952" src="https://github.com/Legolas9999/PicUpload/assets/71768998/6b1a2e02-6dbb-4a80-84fc-84280073f075">
+<img width="789" alt="image-20210121111247319" src="https://github.com/Legolas9999/PicUpload/assets/71768998/c45bc89a-ff5a-47c7-a18b-be25e078b144">
+![image-20211128145849883](https://github.com/Legolas9999/PicUpload/assets/71768998/38200d26-2738-4d16-9699-a85777f1f48b)
+
+<img width="838" alt="image-20210121124927773" src="https://github.com/Legolas9999/PicUpload/assets/71768998/bb94bf07-f2b5-4c6b-9f4d-d676d5454065">
+<img width="1009" alt="image-20210121125125964" src="https://github.com/Legolas9999/PicUpload/assets/71768998/c570542a-5ee2-49a0-8e91-76268f289781">
+<img width="873" alt="image-20210121125301655" src="https://github.com/Legolas9999/PicUpload/assets/71768998/7badd225-10c9-4d96-a544-f6dc987c8ef4">
 
