@@ -39,5 +39,7 @@
 <img width="873" alt="image-20210121125301655" src="https://github.com/Legolas9999/PicUpload/assets/71768998/7badd225-10c9-4d96-a544-f6dc987c8ef4">
 ![image-20211128182320385](https://github.com/Legolas9999/PicUpload/assets/71768998/5ccd5d9f-279b-4641-a92a-ea9096f0f098)
 ![image-20211128182348327](https://github.com/Legolas9999/PicUpload/assets/71768998/81939e5d-d632-44b6-9e89-178bfe4c943c)
+![image-20211128182624337](https://github.com/Legolas9999/PicUpload/assets/71768998/597b71fa-65e8-47b6-a954-399339dc6710)
+![image-20211128182717114](https://github.com/Legolas9999/PicUpload/assets/71768998/67c1f7a1-222e-48cd-8ed4-3e824f84b009)
 
 
